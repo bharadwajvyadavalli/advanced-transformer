@@ -1,0 +1,8 @@
+torch>=2.0.0
+numpy>=1.20.0
+tqdm>=4.62.0
+matplotlib>=3.5.0
+tensorboard>=2.8.0
+transformers>=4.21.0  # For comparison models and utilities
+pytest>=7.0.0  # For running tests
+scikit-learn>=1.0.0  # For metrics and evaluation
